@@ -1,0 +1,22 @@
+
+public class Example {
+
+	public static void main(String[] args) {
+		System.out.println("Public class");
+
+	}
+
+}
+
+class Demao{
+	public static void main(String[] args) {
+		System.out.println("Second class");
+	}
+}
+
+class Myclass{
+	public static void main(String[] args) {
+		System.out.println("Third class");
+	}
+}
+

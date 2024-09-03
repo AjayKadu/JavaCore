@@ -1,0 +1,14 @@
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		int a = 10;
+		float b =  20.8f;
+		long l = 2678933;
+		double d = 789.78643;
+		
+		int a = b;
+	}
+
+}

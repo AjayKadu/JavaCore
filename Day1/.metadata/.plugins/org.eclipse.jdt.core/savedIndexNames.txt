@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Ajay\OneDrive\Desktop\DMC\CoreJava\CoreJava-Class-Work\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-3200983081.index
-3385594047.index

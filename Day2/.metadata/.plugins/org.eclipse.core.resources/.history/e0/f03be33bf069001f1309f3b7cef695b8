@@ -1,0 +1,20 @@
+import java.util.Calendar;
+
+public class Calander {
+
+	public static void main(String[] args) {
+	
+		int Day;
+		int Month;
+		int Year;
+		
+	Calendar b = Calendar.getInstance();
+	Day = b.DATE;
+	Month = b.MONTH;
+	Year = b.YEAR;
+	
+	System.out.println(Day+ "/"+Month+"/"+Year);
+
+	}
+
+}

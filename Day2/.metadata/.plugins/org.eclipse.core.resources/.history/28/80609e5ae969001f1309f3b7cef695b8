@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class Employee {
+
+	public static void main(String[] args) {
+
+		Program p = new Program();
+		p.acceptRecord();
+
+	}
+
+}
+
+class Program {
+
+	String name;
+	int age;
+	int salary;
+
+	public void acceptRecord() {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Age");
+		int age = sc.nextInt();
+	}
+
+}
